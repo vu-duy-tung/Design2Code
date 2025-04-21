@@ -1,0 +1,31 @@
+# Ignore model checkpoints
+*.pt
+*.pth
+
+# Ignore all data and model files/folders
+*.json
+*.png
+*.jpg
+*.html
+*.pickle
+*.pkl
+*.zip
+*.ttf
+*.txt
+*.pdf
+
+**/__pycache__/
+
+wandb/
+dataset/
+websight_hf/
+playing/
+model/
+benchmark/
+prompting/
+
+# My personal playground
+playwithmino.py
+
+
+
