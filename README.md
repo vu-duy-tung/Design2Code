@@ -2,7 +2,7 @@
 
 # Multimodal graph representation learning for website source code generation given visual sketch
 
-Our technical [report](Multimodal_Graph_Representation_Learning_For_Website_Generation_Based_on_Visual_Sketch.pdf) 
+<!-- Our technical [report](Multimodal_Graph_Representation_Learning_For_Website_Generation_Based_on_Visual_Sketch.pdf)  -->
 </div>
 
 # Overview
@@ -10,7 +10,7 @@ Our technical [report](Multimodal_Graph_Representation_Learning_For_Website_Gene
 ![gvlm](architecture.png)
 
 <br/><br/>
-We present a novel approach to solving the Design2Code problem by integrating multimodal information through a graph-based model that captures the spatial and semantic relationships within webpage designs. Our OCR-Segmentation pipeline effectively isolates textual content, allowing for more accurate segmentation of visual elements. The proposed graph-enhanced vision-language model bridges the gap between visual comprehension and code generation, resulting in improved HTML generation in terms of both layout fidelity and content accuracy. Our extensive experiments validate the effectiveness of this approach, offering a significant advancement toward automated code generation from web designs.
+The Design2Code problem, which involves converting digital designs into functional source code, is a significant challenge in software development due to its complexity and time-consuming nature. Traditional approaches often struggle with accurately interpreting the intricate visual details and structural relationships inherent in webpage designs, leading to limitations in automation and efficiency. In this paper, we propose a novel method that leverages multimodal graph representation learning to address these challenges. By integrating both visual and structural information from design sketches, our approach enhances the accuracy and efficiency of code generation, particularly in producing semantically correct and structurally sound HTML code. We present a comprehensive evaluation of our method, demonstrating significant improvements in both accuracy and efficiency compared to existing techniques. Extensive evaluation demonstrates significant improvements of multimodal graph learning over existing techniques, highlighting the potential of our method to revolutionize design-to-code automation.
 <br/><br/>
 
 # Preparation
