@@ -70,4 +70,4 @@ python eval/eval_traditional_metrics.py
 
 # Contact us
 If you have any questions, comments or suggestions, please do not hesitate to contact us.
-- Email: vdtung21.work@gmail.com
+- Emails: vdtung21.work@gmail.com, thy@uab.edu
