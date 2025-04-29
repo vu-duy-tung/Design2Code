@@ -5,6 +5,8 @@
 <!-- Our technical [report](Multimodal_Graph_Representation_Learning_For_Website_Generation_Based_on_Visual_Sketch.pdf)  -->
 </div>
 
+https://arxiv.org/pdf/2504.18729
+
 # Overview
 
 ![gvlm](architecture.png)
@@ -71,3 +73,17 @@ python eval/eval_traditional_metrics.py
 # Contact us
 If you have any questions, comments or suggestions, please do not hesitate to contact us.
 - Emails: vdtung21.work@gmail.com, thy@uab.edu
+
+# If you find our work useful, please cite it!
+
+```bibtex
+@misc{vu2025multimodalgraphrepresentationlearning,
+      title={Multimodal graph representation learning for website generation based on visual sketch}, 
+      author={Tung D. Vu and Chung Hoang and Truong-Son Hy},
+      year={2025},
+      eprint={2504.18729},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2504.18729}, 
+}
+```
