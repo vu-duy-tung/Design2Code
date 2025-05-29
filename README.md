@@ -66,4 +66,3 @@ python eval/eval_traditional_metrics.py
 # Reference
 1. [OpenFlamingo](https://github.com/mlfoundations/open_flamingo)
 2. [Design2Code](https://github.com/NoviScl/Design2Code)
-```
